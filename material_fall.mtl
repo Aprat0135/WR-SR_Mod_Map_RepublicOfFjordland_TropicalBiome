@@ -1,0 +1,24 @@
+$SUBMATERIAL terrain1
+$TEXTURE 5 tiles_normal/grass2_fall.dds
+$TEXTURE 6 tiles_normal/grass2bump.dds
+$TEXTURE 7 tiles_normal/field1.dds
+$TEXTURE 8 tiles_normal/field1bump.dds
+$TEXTURE 9 tiles_normal/burma_dirt2.dds
+$TEXTURE 10 tiles_normal/grass1bump.dds
+$TEXTURE 11 tiles_normal/rockburma.dds
+$TEXTURE 12 tiles_normal/rockburma_nm.dds
+$TEXTURE 16 tiles_normal/detail1.dds
+$TEXTURE 19 tiles_normal/newdesert4_fall.dds
+$TEXTURE 20 tiles_normal/newdesert4bump.dds
+
+$DIFFUSECOLOR 1.000000 1.000000 1.000000 1.000000
+$SPECULARCOLOR 1.000000 1.000000 1.000000 1.000000
+$AMBIENTCOLOR 1.000000 1.000000 1.000000 1.000000
+
+$SPECULARPOWER 2.000000
+
+
+
+
+$END
+
